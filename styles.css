@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+body {
+    background-image: url("https://st2.depositphotos.com/4216969/6707/v/950/depositphotos_67078729-stock-illustration-grass-background-with-rainbow.jpg");
+    background-repeat: no-repeat ;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Lato', sans-serif;
+}
+#time
+{
+    color: blueviolet;
+    font-size: 100px;
+    height: 10vh;
+}
